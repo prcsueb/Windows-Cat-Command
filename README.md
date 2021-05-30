@@ -20,5 +20,6 @@
 =>how to use wcat
 
 Syntax: "1wcat <commands> <file-name>"
+
 commands: -s, -b, -n
 file-name: for example a.txt given in this repository**
