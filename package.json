@@ -1,0 +1,14 @@
+{
+  "name": "1wcat",
+  "version": "1.0.0",
+  "description": "1wcat command works similar as cat command of linux",
+  "main": "cat.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bin": {
+    "1wcat": "cat.js"
+  },
+  "author": "",
+  "license": "ISC"
+}
